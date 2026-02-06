@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color:rgb(92, 12, 29);
+    font-size: 48px;
+    border-radius: 10px;
+    background-color: bisque;
+}
+
+h2{
+    color: #000;
+    
+    border-top:2px solid rgb(92, 12, 29);
+    padding-top: 10px;
+}
